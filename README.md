@@ -1,7 +1,7 @@
 # Working hours UI build with React
 
 ## Demo
-![add hourlog](https://github.com/TommiLehtisaari/workinghours-graphql-api/tree/master/documentation/demo_gifs/add_hourlog.gif)
+![add hourlog](documentation/demo_gifs/add_hourlog.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
