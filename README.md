@@ -3,7 +3,7 @@
 ## Demo
 Adding new hourlogs:
 
-![add hourlog](documentation/demo_gifs/add_hourlog.gif)
+![add hourlog](documentation/demo_gifs/add_hourlog_large.gif)
 
 Clicking a Project piechart opens project details:
 
