@@ -1,7 +1,21 @@
 # Working hours UI build with React
 
 ## Demo
-![add hourlog](https://github.com/TommiLehtisaari/workinghours-graphql-api/tree/master/documentation/demo_gifs/add_hourlog.gif)
+Adding new hourlogs:
+
+![add hourlog](documentation/demo_gifs/add_hourlog_large.gif)
+
+Hourlogs can be deleted and updated:
+
+![add hourlog](documentation/demo_gifs/delete_hourlog.gif)
+
+New Projects and project tasks can be created by admins. Everybody can still view project list:
+
+![add hourlog](documentation/demo_gifs/create_project.gif)
+
+Clicking a Project piechart opens project details:
+
+![piechart view](documentation/demo_gifs/piecharts.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
