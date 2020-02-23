@@ -1,7 +1,13 @@
 # Working hours UI build with React
 
 ## Demo
+Adding new hourlogs:
+
 ![add hourlog](documentation/demo_gifs/add_hourlog.gif)
+
+Clicking a Project piechart opens project details:
+
+![piechart view](documentation/demo_gifs/piecharts.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
